@@ -353,7 +353,7 @@
 
 		.button-style1
 		{
-			background: #e97770 url('images/overlay.png');
+			background: #f39c12 url('images/overlay.png');
 			color: #fff;
 		}
 
@@ -454,7 +454,7 @@
 
 		.feature-list h3
 		{
-			color: #e97770 !important;
+			color: #f39c12 !important;
 		}
 		
 			.feature-list h3:before
@@ -868,7 +868,7 @@
 
 	#header-wrapper
 	{
-		background: url('../images/199626_206060716080235_1305683_n.jpg') center center;
+		background: url('../images/457680_416935034992801_1957414088_o.jpg') center center;
 		background-size: cover;
     background-attachment: fixed
 	}
@@ -987,14 +987,14 @@
 	
 	.wrapper-style1
 	{
-		background: #e97770 url('images/overlay.png');
+		background: #2980b9 url('images/overlay.png');
 		color: #eee;
 		color: rgba(255,255,255,0.75);
 	}
 	
 		.wrapper-style1 .title
 		{
-			background: #e97770 url('images/overlay.png');
+			background: #2980b9 url('images/overlay.png');
 			color: #fff;
 		}
 	
@@ -1105,7 +1105,7 @@
 		
 			#highlights .highlight h3
 			{
-				color: #e97770;
+				color: #f39c12;
 			}
 
 /*********************************************************************************/
